@@ -18,6 +18,7 @@ LeetcodeSolution
 | [0001-two-sum](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +28,9 @@ LeetcodeSolution
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0852-peak-index-in-a-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
