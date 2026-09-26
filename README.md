@@ -21,6 +21,7 @@ LeetcodeSolution
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0875-koko-eating-bananas) |
@@ -28,6 +29,7 @@ LeetcodeSolution
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0001-two-sum) |
+| [0347-top-k-frequent-elements](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,16 +48,28 @@ LeetcodeSolution
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
