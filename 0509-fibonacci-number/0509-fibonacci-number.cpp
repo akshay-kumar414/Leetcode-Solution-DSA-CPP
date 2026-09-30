@@ -11,7 +11,6 @@ public:
 
         int ans1 = fib(n-1);
         int ans2 = fib(n-2);
-        int ans = ans1 + ans2;
-        return ans;
+        return ans1 + ans2;
     }
 };
