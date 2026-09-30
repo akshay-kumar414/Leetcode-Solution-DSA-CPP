@@ -12,6 +12,7 @@ LeetcodeSolution
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -72,4 +73,16 @@ LeetcodeSolution
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0347-top-k-frequent-elements) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
