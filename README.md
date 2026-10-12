@@ -102,9 +102,22 @@ LeetcodeSolution
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0094-binary-tree-inorder-traversal) |
 | [2390-removing-stars-from-a-string](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/2390-removing-stars-from-a-string) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
