@@ -34,6 +34,10 @@ public:
     }
     bool isSymmetric(TreeNode* root) {
 
+        if(root == NULL){
+            return true;
+        }
+
         return func(root->left,root->right);
     }
 };
