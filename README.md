@@ -77,6 +77,7 @@ LeetcodeSolution
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0509-fibonacci-number) |
+| [2235-add-two-integers](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/2235-add-two-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
