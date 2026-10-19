@@ -124,6 +124,7 @@ LeetcodeSolution
 | [0144-binary-tree-preorder-traversal](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
@@ -135,6 +136,7 @@ LeetcodeSolution
 | [0144-binary-tree-preorder-traversal](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
@@ -149,6 +151,7 @@ LeetcodeSolution
 | [0144-binary-tree-preorder-traversal](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
@@ -164,13 +167,19 @@ LeetcodeSolution
 ## Binary Lifting
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0136-single-number) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
