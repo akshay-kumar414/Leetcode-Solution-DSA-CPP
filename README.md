@@ -32,6 +32,7 @@ LeetcodeSolution
 | ------- |
 | [0001-two-sum](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0347-top-k-frequent-elements) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search
 |  |
 | ------- |
@@ -127,6 +128,7 @@ LeetcodeSolution
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -139,6 +141,7 @@ LeetcodeSolution
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -154,6 +157,7 @@ LeetcodeSolution
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -164,6 +168,7 @@ LeetcodeSolution
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0226-invert-binary-tree](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -182,4 +187,9 @@ LeetcodeSolution
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Two Pointers
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
