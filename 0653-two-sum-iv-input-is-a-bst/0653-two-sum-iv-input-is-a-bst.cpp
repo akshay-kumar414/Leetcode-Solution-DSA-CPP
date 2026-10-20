@@ -22,7 +22,8 @@ public:
         return;
     }
     bool findTarget(TreeNode* root, int k) {
-        ans.clear();
+        
+       ans.clear();
 
         fun(root);
         int i=0;
