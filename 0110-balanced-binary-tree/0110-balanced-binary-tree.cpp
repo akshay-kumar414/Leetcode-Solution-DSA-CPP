@@ -28,6 +28,7 @@ public:
 
 
     bool isBalanced(TreeNode* root) {
+        ans = true;
         fun(root);
         return ans;
 
