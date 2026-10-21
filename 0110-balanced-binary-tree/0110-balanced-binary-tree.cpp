@@ -15,7 +15,7 @@ public:
     bool ans = true;
     int fun(TreeNode* root){
         if(root == NULL){
-            return 0;
+            return true;
         }
         int left = fun(root->left);
         int right = fun(root->right);
