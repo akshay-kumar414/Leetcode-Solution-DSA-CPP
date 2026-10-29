@@ -28,6 +28,7 @@ LeetcodeSolution
 | [0704-binary-search](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -200,6 +201,7 @@ LeetcodeSolution
 | [0637-average-of-levels-in-binary-tree](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0994-rotting-oranges) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -235,4 +237,5 @@ LeetcodeSolution
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
