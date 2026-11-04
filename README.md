@@ -98,6 +98,7 @@ LeetcodeSolution
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0022-generate-parentheses) |
+| [0058-length-of-last-word](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0058-length-of-last-word) |
 | [2390-removing-stars-from-a-string](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/2390-removing-stars-from-a-string) |
 ## Backtracking
 |  |
