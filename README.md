@@ -17,6 +17,7 @@ LeetcodeSolution
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0130-surrounded-regions](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0130-surrounded-regions) |
@@ -230,6 +231,7 @@ LeetcodeSolution
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0027-remove-element) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## DP on Trees
 |  |
