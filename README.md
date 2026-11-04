@@ -17,6 +17,7 @@ LeetcodeSolution
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -97,6 +98,7 @@ LeetcodeSolution
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0058-length-of-last-word) |
 | [2390-removing-stars-from-a-string](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/2390-removing-stars-from-a-string) |
@@ -262,4 +264,8 @@ LeetcodeSolution
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0785-is-graph-bipartite) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/akshay-kumar414/Leetcode-Solution-DSA-CPP/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
