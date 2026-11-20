@@ -12,7 +12,7 @@ public:
         if(rev > INT_MAX || rev < INT_MIN){
             return 0;
         }
-        return rev;
+        return (int)rev;
         
     }
 };
